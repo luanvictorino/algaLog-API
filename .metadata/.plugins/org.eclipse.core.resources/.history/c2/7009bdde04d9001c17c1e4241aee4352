@@ -1,0 +1,7 @@
+spring.datasource.url=jdbc:mysql://localhost/algalog?createDatabaseIfNotExist=true&serverTimezone=UTC
+spring.datasource.username=root
+spring.datasource.password=A!1996z@
+
+spring.jpa.show-sql=false
+spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
+spring.jpa.hibernate.ddl-auto=create
